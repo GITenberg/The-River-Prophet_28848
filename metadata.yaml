@@ -1,0 +1,37 @@
+_repo: The-River-Prophet_28848
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Coleman, Ralph P. (Ralph Pallen)
+    alias: Coleman, Ralph Pallen
+    birthdate: 1892
+    deathdate: 1968
+    gutenberg_agent_id: '6922'
+    url: http://www.gutenberg.org/2009/agents/6922
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Spears, Raymond S. (Raymond Smiley)
+    alias: Spears, Raymond Smiley
+    birthdate: 1876
+    deathdate: 1950
+    gutenberg_agent_id: '33548'
+    url: http://www.gutenberg.org/2009/agents/33548
+description: ''
+gutenberg_issued: '2009-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28848'
+  lccn: '20010310'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Mississippi River -- Fiction'
+- !lcsh 'River life -- Fiction'
+title: The River Prophet
+url: http://www.gutenberg.org/ebooks/28848
